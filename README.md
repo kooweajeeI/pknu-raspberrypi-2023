@@ -51,3 +51,6 @@
 		- WPF 모터, LED 제어값 전송
 		- RPi Python paho-mqtt 패키지
 		- WPF C# M2Mqtt 패키지
+		
+<img src="https://raw.githubusercontent.com/kooweajeeI/pknu-raspberrypi-2023/main/images/raspberrypi01.jpg" width="700">
+<img src="https://raw.githubusercontent.com/kooweajeeI/pknu-raspberrypi-2023/main/images/raspberrypi02.png" width="700">
